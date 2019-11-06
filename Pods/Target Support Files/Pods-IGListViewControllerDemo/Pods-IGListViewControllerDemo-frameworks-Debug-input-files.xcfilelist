@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-IGListViewControllerDemo/Pods-IGListViewControllerDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IGListKit/IGListKit.framework
+${BUILT_PRODUCTS_DIR}/Masonry/Masonry.framework

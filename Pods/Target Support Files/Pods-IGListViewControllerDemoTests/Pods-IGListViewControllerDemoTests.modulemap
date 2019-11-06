@@ -1,0 +1,6 @@
+framework module Pods_IGListViewControllerDemoTests {
+  umbrella header "Pods-IGListViewControllerDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
